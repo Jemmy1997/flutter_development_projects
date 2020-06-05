@@ -12,7 +12,7 @@ void main() => runApp(MaterialApp(
 //              image: NetworkImage(
 //                  'https://cdn.eso.org/images/thumb300y/eso1907a.jpg'),
 //            ),
-            image: AssetImage('images/icon.png'),
+            image: AssetImage('images/rich.jpg'),
           ),
         ),
       ),
